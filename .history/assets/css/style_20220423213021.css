@@ -394,7 +394,7 @@ Button
     transition: .5s;
     border: 1px solid #1450be;
     font-family: 'Montserrat', sans-serif;
-    font-weight: 600;
+    font-weight: 400;
 }
 
 .btn:hover {
@@ -428,15 +428,7 @@ Button
     padding: 6px 30px;
 }
 
-.hire{
-    background-image:url(/assets/images/foto/hire2.jpg) no-repeat;
-    background-repeat: no-repeat;
-    /* background-position: center; */
-    -moz-background-size: cover;
-    background-size: cover;
-    margin: 0px 0 0 0px;
-    
-}
+
 
 
 /*.btn-default:active, .btn-default:hover  {
@@ -657,11 +649,10 @@ input::-ms-input-placeholder {
 }
 .head_title p{
     font-family: 'playfair_displayregular';
-    font-weight:600;
 }
 
 .head_title_intro{
-    font-weight:600;
+    font-weight
 }
 
 /*home section*/
@@ -760,33 +751,25 @@ input::-ms-input-placeholder {
 
 .service .tab-content{
     margin-top:100px;
-
 }
 
-.single_tab_content p{
-    font-weight: 600;
-}
 
 /*features section css*/
 
 .single_features_text{}
-.single_features_text h4{
-    font-weight: 600;
-}
+.single_features_text h4{}
 .single_features_text p{
     margin-bottom: 40px;
     display: inline-block;
     margin-top: 10px;
-    font-weight: 600;
 }
 .single_features_text ul li{
     font-size:0.875rem;
     margin-bottom:15px;
-    font-weight: 600;
 }
 .single_features_text ul li span{
     font-family: 'Montserrat', sans-serif;
-    font-weight: 600;
+    font-weight: 400;
 }
 
 .single_features_text a{
@@ -1165,7 +1148,7 @@ button.btn-md {
     transition: .5s;
     border: 0px solid #1450be;
     font-family: 'Montserrat', sans-serif;
-    font-weight: 600;
+    font-weight: 400;
 }
 button.btn-md:hover {
     background-color: transparent;

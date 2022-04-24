@@ -429,9 +429,9 @@ Button
 }
 
 .hire{
-    background-image:url(/assets/images/foto/hire2.jpg) no-repeat;
+    background-image:url(/assets/images/foto/hire2.jpg) no-repe;
     background-repeat: no-repeat;
-    /* background-position: center; */
+    background-position: center;
     -moz-background-size: cover;
     background-size: cover;
     margin: 0px 0 0 0px;
