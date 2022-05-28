@@ -603,7 +603,7 @@ input::-ms-input-placeholder {
 }
 
 .scrolled .main_menu_bg .navbar-default {
-    background: #fff;
+    background: rgb(88, 82, 82);
 }
 
 
@@ -627,7 +627,7 @@ input::-ms-input-placeholder {
     padding-bottom: 20px;
     text-transform: uppercase;
     font-size: 0.875rem;
-    color: rgb(26, 53, 201);
+    color: #fff;
     font-family: 'Montserrat', sans-serif;
     font-weight: 500;
 }
@@ -635,9 +635,8 @@ input::-ms-input-placeholder {
     padding: 0px 15px;
 }
 .navbar-brand>img {
-    /* padding-top: 3px; */
-    
-    max-width: 45%;
+    padding-top: 5px;
+    max-width: 50%;
 }
 .navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:hover, .navbar-default .navbar-nav>.open>a:focus{
     background-color:transparent;

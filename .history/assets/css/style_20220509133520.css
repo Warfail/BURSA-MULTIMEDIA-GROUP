@@ -438,36 +438,7 @@ Button
     
 }
 
-table {
-    border-collapse: collapse;
-    /* border-radius:10rem; */
-    border-spacing: 0;
-    width: 100%;
-    border: 1px solid #ddd;
-  }
-  
-  /* Style table headers and table data */
-  th, td {
-    text-align: center;
-    padding: 16px;
-  }
-  
-  th:first-child, td:first-child {
-    text-align: left;
-  }
-  
-  /* Zebra-striped table rows */
-  tr:nth-child(even) {
-    background-color: #f2f2f2
-  }
-  
-  .fa-check {
-    color: green;
-  }
-  
-  .fa-remove {
-    color: red;
-  }
+
 
 
 /*.btn-default:active, .btn-default:hover  {
@@ -603,7 +574,7 @@ input::-ms-input-placeholder {
 }
 
 .scrolled .main_menu_bg .navbar-default {
-    background: #fff;
+    background: rgb(88, 82, 82);
 }
 
 
@@ -627,7 +598,7 @@ input::-ms-input-placeholder {
     padding-bottom: 20px;
     text-transform: uppercase;
     font-size: 0.875rem;
-    color: rgb(26, 53, 201);
+    color: #fff;
     font-family: 'Montserrat', sans-serif;
     font-weight: 500;
 }
@@ -635,9 +606,7 @@ input::-ms-input-placeholder {
     padding: 0px 15px;
 }
 .navbar-brand>img {
-    /* padding-top: 3px; */
-    
-    max-width: 45%;
+    max-width: 80%;
 }
 .navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:hover, .navbar-default .navbar-nav>.open>a:focus{
     background-color:transparent;
